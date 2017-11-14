@@ -2,3 +2,4 @@ will be delete --not yet
 delete really?
 creating a new branch is fast AND simple.
 branch step 3
+bug branch & stash 
